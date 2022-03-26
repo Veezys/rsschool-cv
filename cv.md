@@ -30,7 +30,6 @@ function solution(number){
   }
   return sum;
 }
-
 ```
 # Education 
 * Udemy (HTML/CSS)/JS
