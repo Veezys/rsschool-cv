@@ -31,3 +31,10 @@ function solution(number){
 }
 
 ```
+# Education 
+* Udemy (HTML/CSS)/JS
+* Programming school 21
+# Languages
+* RU:native speaker
+* Eng: B1
+* Germany: A1
