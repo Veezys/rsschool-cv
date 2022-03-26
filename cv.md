@@ -12,7 +12,8 @@ I am 22 years old, I'm a student at School of Programming 21. Recently I started
 * JS/C
 * Git/GitHub
 * Figma
-# Example Code 
+# Example Code
+
 ```
 function solution(number){
   let arrNum = [];
